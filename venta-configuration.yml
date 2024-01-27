@@ -1,1 +1,1 @@
-dbVenta-cnx: Server=localhost,1801;Database=dbVenta;Uid=sa;pwd=MSqwert@159;Encrypt=falsea
+dbVenta-cnx: Server=localhost,1801;Database=dbVenta;Uid=sa;pwd=MSqwert@159;Encrypt=false
