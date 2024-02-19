@@ -2,3 +2,4 @@ dbVenta-cnx: Server=localhost,1801;Database=dbVenta;Uid=sa;pwd=MSqwert@159;Encry
 url-base-servicio-stock: https://localhost:7065
 log-mongo-server-db: mongodb://127.0.0.1:27017/dbLog
 log-mongo-db-collection: logs-Ventas
+url-base-servicio-pago: https://localhost:7053
